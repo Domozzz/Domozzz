@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
+I am a fourth-year computer engineering student at Walailak University, currently interning as a computer engineer at EGAT. My academic background includes a strong emphasis on computer programming, with proficiency in Python, JavaScript, and SQL. I have also gained experience in machine learning through coursework and projects. I am a dedicated and hardworking individual, committed to continuously learning and expanding my skillset. I am eager to apply my knowledge and skills to real-world projects, and am excited to continue growing as a computer engineer.
+
 * 🌍  I'm based in Trang , Thailand
 
 ### Skills
